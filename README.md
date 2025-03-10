@@ -6,14 +6,10 @@ Hangman-Game-Python/
 │── assets/              # Store screenshots & other assets  
 │   ├── home_screen.png  # Home screen of the game  
 │   ├── win_game.png     # Winning screen  
-│   ├── loss_game.png    # Losing screen  
-│── src/                 # Source code files  
-│   ├── hangman.py       # Main Python script  
+│   ├── loss_game.png    # Losing screen   
+├── hangman.py       # Main Python script  
 │   ├── words.txt        # Word list for the game  
-│── README.md            # Project documentation  
-│── .gitignore           # Ignore unnecessary files  
-│── requirements.txt     # Dependencies (if any)  
-│── LICENSE              # Open-source license (Optional)  
+│── README.md            # Project documentation    
 ```
 
 # 🎮 Hangman Game - Python 🏆  
@@ -103,4 +99,3 @@ This project is licensed under the **MIT License**.
 ---
 
 📌 **If you liked this project, don’t forget to ⭐ the repo!**  
-```
