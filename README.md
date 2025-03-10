@@ -98,11 +98,9 @@ This project is licensed under the **MIT License**.
 
 ## 🔗 **Connect with Me!**  
 🔹 **GitHub:** [RoniSeikh](https://github.com/RoniSeikh)  
-🔹 **LinkedIn:** (Add your LinkedIn profile link)  
+🔹 **LinkedIn:** [Roni Seikh](https://in.linkedin.com/in/roniseikh)  
 
 ---
 
 📌 **If you liked this project, don’t forget to ⭐ the repo!**  
 ```
-
----
