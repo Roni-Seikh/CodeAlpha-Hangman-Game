@@ -57,7 +57,7 @@ This project was developed as part of my internship, enhancing my **problem-solv
 
 ## 🛠️ **Tech Stack**  
 - **Programming Language:** Python 🐍  
-- **Modules Used:** `random`, `time`  
+- **Modules Used:** `random`, `request`, `twinker`
 
 ---
 
