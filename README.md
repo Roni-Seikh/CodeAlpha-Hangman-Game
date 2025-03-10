@@ -36,7 +36,7 @@ The **Hangman Game** is a word-guessing game where players attempt to guess a hi
 ## 🎓 **Internship Details**  
 - **Company:** Code Alpha  
 - **Internship Role:** Python Developer Intern  
-- **Duration:** (Mention your internship period)  
+- **Duration:** 1 Month  
 - **Projects Completed:** Hangman Game, Stock Portfolio Tracker, Task Automation with Python Scripts  
 
 This project was developed as part of my internship, enhancing my **problem-solving skills and Python expertise**.  
@@ -64,12 +64,12 @@ This project was developed as part of my internship, enhancing my **problem-solv
 ## 💻 **Installation & Setup**  
 1️⃣ Clone the repository:  
    ```bash
-   git clone https://github.com/RoniSeikh/Hangman-Game-Python.git
-   cd Hangman-Game-Python
+   git clone https://github.com/RoniSeikh/CodeAlpha-Hangman-Game.git
+   cd CodeAlpha-Hangman-Game
    ```  
 2️⃣ Run the script:  
    ```bash
-   python src/hangman.py
+   python src/hangman_game.py
    ```  
 
 ---
@@ -83,8 +83,7 @@ This project was developed as part of my internship, enhancing my **problem-solv
 ---
 
 ## 🚀 **Contributions & Enhancements**  
-Want to improve this project? Feel free to:  
-- Add a GUI version 🎨  
+Want to improve this project? Feel free to:   
 - Include difficulty levels 🔥  
 - Improve word database 📜  
 
@@ -104,15 +103,6 @@ This project is licensed under the **MIT License**.
 ---
 
 📌 **If you liked this project, don’t forget to ⭐ the repo!**  
-```
-
----
-
-### **📝 `.gitignore` Example**
-```gitignore
-__pycache__/
-*.log
-*.pyc
 ```
 
 ---
