@@ -45,13 +45,13 @@ This project was developed as part of my internship, enhancing my **problem-solv
 
 ## 🖼️ **Game Screenshots**  
 ### 📌 Home Screen  
-<img src="assets/home_screen.png" width="600">  
+![Home Screen](https://github.com/Roni-Seikh/CodeAlpha-Hangman-Game/blob/main/Assets/Home%20Page.png)  
 
 ### 🏆 Winning Screen  
-<img src="assets/win_game.png" width="600">  
+![Winning Screen](https://github.com/Roni-Seikh/CodeAlpha-Hangman-Game/blob/main/Assets/Game%20Win.png)  
 
 ### ❌ Losing Screen  
-<img src="assets/loss_game.png" width="600">  
+![Losing Screen](https://github.com/Roni-Seikh/CodeAlpha-Hangman-Game/blob/main/Assets/Game%20Loss.png)    
 
 ---
 
