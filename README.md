@@ -7,8 +7,7 @@ Hangman-Game-Python/
 │   ├── home_screen.png  # Home screen of the game  
 │   ├── win_game.png     # Winning screen  
 │   ├── loss_game.png    # Losing screen   
-├── hangman.py       # Main Python script  
-│   ├── words.txt        # Word list for the game  
+├── hangman.py           # Main Python script  
 │── README.md            # Project documentation    
 ```
 
