@@ -16,11 +16,6 @@ Hangman-Game-Python/
 │── LICENSE              # Open-source license (Optional)  
 ```
 
----
-
-## **📜 README.md Template**  
-
-```md
 # 🎮 Hangman Game - Python 🏆  
 
 A fun and interactive **Hangman Game** built using Python during my internship at **Code Alpha**. This project demonstrates my Python programming skills, logical thinking, and game development expertise.  
